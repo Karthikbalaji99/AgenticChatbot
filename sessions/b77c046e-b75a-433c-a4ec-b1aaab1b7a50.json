@@ -1,0 +1,19 @@
+{
+  "sessionId": "b77c046e-b75a-433c-a4ec-b1aaab1b7a50",
+  "history": [
+    {
+      "user": {
+        "message": "What can you help me with",
+        "fileUpload": false,
+        "fileContent": []
+      },
+      "ai": {
+        "response": "I can assist you with:\n\n- Understanding GHG Protocol scopes (1, 2, 3) and definitions  \n- Reporting frequency and standard timeframes  \n- Setting organizational and operational boundaries  \n- Emission calculation methods and applying emission factors  \n- Base year selection and recalculation rules  \n- Verification and assurance basics  \n- Industry-specific guidance and sector supplements  \n- Best practices for compiling GHG inventories and reports  \n\nFor detailed or complex queries, I can guide you to the relevant GHG Protocol documents.",
+        "sources": {
+          "documentName": "GHG Protocol KB",
+          "documentLink": "https://ghgprotocol.org/"
+        }
+      }
+    }
+  ]
+}

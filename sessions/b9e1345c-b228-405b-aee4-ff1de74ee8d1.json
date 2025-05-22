@@ -1,0 +1,56 @@
+{
+  "sessionId": "b9e1345c-b228-405b-aee4-ff1de74ee8d1",
+  "history": [
+    {
+      "message_id": "msg-001",
+      "createdAt": "2025-05-22T18:37:04.738126Z",
+      "user": {
+        "message": "what can you help me with?",
+        "fileUpload": false,
+        "fileContent": [],
+        "read": false
+      },
+      "ai": {
+        "response": "I can assist you with:\n\n- Understanding GHG Protocol scopes (1, 2, 3) and definitions  \n- Reporting frequency and standard timeframes  \n- Setting organizational and operational boundaries  \n- Emission calculation methods and common factors  \n- Base year selection and recalculation rules  \n- Verification and assurance basics  \n- Industry-specific guidance references  \n- Best practices for GHG inventory development  \n\nFor detailed or complex queries, I can guide you to the relevant GHG Protocol documents.",
+        "sources": {
+          "documentName": "GHG Protocol Knowledge Base",
+          "documentLink": "https://ghgprotocol.org/"
+        },
+        "read": false
+      }
+    },
+    {
+      "message_id": "msg-002",
+      "createdAt": "2025-05-22T18:38:37.786754Z",
+      "user": {
+        "message": "what is ghg",
+        "fileUpload": false,
+        "fileContent": [],
+        "read": false
+      },
+      "ai": {
+        "response": "GHG stands for Greenhouse Gas. These gases trap heat in the atmosphere, contributing to global warming and climate change. The main GHGs covered by the GHG Protocol are:\n\n- Carbon dioxide (CO\u2082)\n- Methane (CH\u2084)\n- Nitrous oxide (N\u2082O)\n- Hydrofluorocarbons (HFCs)\n- Perfluorocarbons (PFCs)\n- Sulfur hexafluoride (SF\u2086)\n- Nitrogen trifluoride (NF\u2083)\n\nThe GHG Protocol provides standards for measuring and reporting emissions of these gases.",
+        "sources": {
+          "documentName": "GHG Protocol Knowledge Base",
+          "documentLink": "https://ghgprotocol.org/"
+        },
+        "read": false
+      }
+    },
+    {
+      "message_id": "msg-003",
+      "createdAt": "2025-05-22T18:38:53.087152Z",
+      "user": {
+        "message": "what did we talk about till now?",
+        "fileUpload": false,
+        "fileContent": [],
+        "read": false
+      },
+      "ai": {
+        "response": "So far, we have discussed:\n\n- How I can assist you with various aspects of the GHG Protocol, including scopes, boundaries, calculation methods, and best practices (first exchange).\n- The definition of GHG (Greenhouse Gas), the main gases covered by the GHG Protocol, and their role in climate change (second exchange).",
+        "sources": null,
+        "read": false
+      }
+    }
+  ]
+}

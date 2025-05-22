@@ -1,0 +1,79 @@
+{
+  "sessionId": "1dcdca6b-2bd1-442e-bb95-9f71899d4d70",
+  "history": [
+    {
+      "message_id": "msg-001",
+      "createdAt": "2025-05-22T18:42:58.378379Z",
+      "user": {
+        "message": "what can you help me with?",
+        "fileUpload": false,
+        "fileContent": [],
+        "read": false
+      },
+      "ai": {
+        "response": "I can help you with:\n\n- Understanding GHG Protocol scopes (1, 2, 3) and their definitions  \n- Reporting frequency and standard timeframes  \n- Setting organizational and operational boundaries  \n- Applying common calculation methodologies and emission factors  \n- Guidance on verification and assurance processes  \n- Base year setting and recalculation requirements  \n- Industry-specific reporting guidance and sector supplements  \n- Best practices for compiling GHG inventories and reports  \n\nFor detailed or complex queries, I can guide you to the relevant GHG Protocol documents.",
+        "sources": {
+          "documentName": "GHG Protocol Knowledge Base",
+          "documentLink": "https://ghgprotocol.org/"
+        },
+        "read": false
+      }
+    },
+    {
+      "message_id": "msg-002",
+      "createdAt": "2025-05-22T18:43:08.323311Z",
+      "user": {
+        "message": "what is ghg?",
+        "fileUpload": false,
+        "fileContent": [],
+        "read": false
+      },
+      "ai": {
+        "response": "GHG stands for Greenhouse Gas. These gases trap heat in the atmosphere, contributing to global warming and climate change. The main GHGs covered by the GHG Protocol include:\n\n- Carbon dioxide (CO\u2082)\n- Methane (CH\u2084)\n- Nitrous oxide (N\u2082O)\n- Hydrofluorocarbons (HFCs)\n- Perfluorocarbons (PFCs)\n- Sulfur hexafluoride (SF\u2086)\n- Nitrogen trifluoride (NF\u2083)\n\nThe GHG Protocol provides standards for measuring and reporting emissions of these gases.",
+        "sources": {
+          "documentName": "GHG Protocol Knowledge Base",
+          "documentLink": "https://ghgprotocol.org/"
+        },
+        "read": false
+      }
+    },
+    {
+      "message_id": "msg-003",
+      "createdAt": "2025-05-22T18:47:28.467828Z",
+      "user": {
+        "message": "what is this file about?",
+        "fileUpload": true,
+        "fileContent": [],
+        "read": false
+      },
+      "ai": {
+        "response": "- The file is a GHG Protocol document focused on greenhouse gas accounting and reporting.\n- It provides methodologies for measuring and managing GHG emissions.\n- Includes guidance on scope definitions, emission sources, and calculation approaches.\n- Aims to standardize corporate GHG inventories for consistency and transparency.",
+        "sources": {
+          "documentName": "Uploaded file",
+          "documentLink": ""
+        },
+        "read": false
+      }
+    },
+    {
+      "message_id": "msg-004",
+      "createdAt": "2025-05-22T18:48:48.629915Z",
+      "user": {
+        "message": "what do you understand from the file uploaded?",
+        "fileUpload": true,
+        "fileContent": [
+          "--- Sheet: Data ---\nYear,Scope,Category,Month,Sub-Category,Activity,Total distance travelled,Total distance travelled UOM,Activity File Upload,Activity File Upload Reason\r\n2011,Scope 3,Upstream Transportation and Distribution,January,Road Travel,HGV - All HGVs - 100% Laden - Diesel,12.0,miles,Yes,File Upload in Progress\r\n2011,Scope 3,Upstream Transportation and Distribution,March,Road Travel,HGV - All HGVs - 0% Laden - Diesel,23.0,km,No,\"Data is based on highly reliable internal systems (e.g., automated logs)\"\r\n2011,Scope 3,Upstream Transportation and Distribution,March,Road Travel,HGV - All HGVs - 100% Laden - Diesel,45.0,miles,No,\"Data is based on highly reliable internal systems (e.g., automated logs)\"\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n2011,Scope 3,Upstream Transportation and Distribution,,,,,,,\r\n\n--- Sheet: _Validation ---\nMonths,Unnamed: 1,All_Subcategories,Unnamed: 3,Subcat->Activity,Unnamed: 5,Activity->Units,Unnamed: 7,Constant->Units\r\nJanuary,,Road Travel,,Road Travel,,HGV - All HGVs - 0% Laden - Diesel,,\r\nMarch,,,,HGV - All HGVs - 0% Laden - Diesel,,km,,\r\n,,,,HGV - All HGVs - 100% Laden - Diesel,,miles,,\r\n,,,,HGV - All HGVs - 50% Laden - Diesel,,,,\r\n,,,,,,HGV - All HGVs - 100% Laden - Diesel,,\r\n,,,,,,km,,\r\n,,,,,,miles,,\r\n,,,,,,,,\r\n,,,,,,HGV - All HGVs - 50% Laden - Diesel,,\r\n,,,,,,km,,\r\n,,,,,,miles,,\r\n\n--- Sheet: Lists ---\n\"Data is based on highly reliable internal systems (e.g., automated logs)\",EF is derived from a well-known commonly accepted practice but no document is provided\r\nData is an estimate based on past experience or rough calculations,EF is based on internal calculations or estimates without any external validation\r\nData is a rough guess with no underlying methodology,EF is a rough estimate with no clear basis\r\n"
+        ],
+        "read": false
+      },
+      "ai": {
+        "response": "- The file contains Scope 3 upstream transportation and distribution data for 2011, focusing on road travel by heavy goods vehicles (HGVs) with varying load percentages and diesel fuel.\n- Distance traveled is recorded in miles and kilometers, with data sources noted as either file uploads or reliable internal systems (Sheet: Data).\n- Validation details link months, subcategories, activities, and units (Sheet: _Validation).\n- Data quality descriptions clarify the reliability and estimation basis of the data and emission factors (Sheet: Lists).",
+        "sources": {
+          "documentName": "Uploaded file",
+          "documentLink": ""
+        },
+        "read": false
+      }
+    }
+  ]
+}
