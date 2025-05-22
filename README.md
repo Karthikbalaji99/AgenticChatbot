@@ -55,11 +55,11 @@ Located at the top of `streamlit_app.py`:
 ```bash
 
 pip install -r requirements.txt
-
+```
 ### 5 Running the Application
 ```bash
 streamlit run app.py
-
+```
 ### 6 Populating the Vector Database (Qdrant)
 Place document summaries in raw.json (same schema).
 
@@ -69,7 +69,7 @@ Run:
 ```bash
 python qdrant.py
 The script embeds each summary (Azure OpenAI) and upserts it into Qdrant with filename & source payloads.
-
+```
 ### 7 Extending the Bot
 * **Add Documents** – append to raw.json and re-run the Qdrant upload script.
 * **Custom agents** – create a new agent and update selection_agent routing.
