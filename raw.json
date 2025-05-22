@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "filename": "Categorizing GHG Emissions from Leased Assets",
+            "source": "https://ghgprotocol.org/sites/default/files/2022-12/Categorizing%20GHG%20Emissions%20from%20Leased%20Assets.pdf",
+            "summary": [
+                "The document Categorizing GHG Emissions Associated with Leased Assets is an appendix to the GHG Protocol Corporate Standard that guides companies on how to report GHG emissions from leased assets. Emissions are categorized as Scope 1, 2, or 3 depending on the lease type (finance or operating) and the organizational boundary approach (equity share, financial control, or operational control). Under a finance lease, the lessee reports fuel emissions as Scope 1 and electricity use as Scope 2. For operating leases, if the lessee uses equity share or financial control, emissions fall under Scope 3; with operational control, they fall under Scopes 1 and 2. Lessors always report finance lease emissions as Scope 3, while operating lease emissions vary based on retained control. The framework ensures consistent reporting and avoids double-counting between lessees and lessors."
+            ]
+        },
+        {
+            "filename": "Corporate_Value_Chain_Scope3_Standard",
+            "source": "https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standard_041613_2.pdf",
+            "summary": [
+                "The Corporate Value Chain (Scope 3) Accounting and Reporting Standard is a supplement to the GHG Protocol Corporate Standard that provides a globally accepted framework for companies to measure and report Scope 3 greenhouse gas (GHG) emissions—those indirect emissions that occur throughout a company’s value chain, both upstream (e.g., suppliers, purchased goods, logistics) and downstream (e.g., product use, waste, investments). The standard defines 15 categories of Scope 3 emissions and outlines a step-by-step approach for identifying emission sources, collecting data, setting boundaries, allocating emissions, and reporting results. It helps companies assess climate-related risks and opportunities, set GHG reduction targets, improve stakeholder engagement, and support supply chain collaboration for emissions reduction. It promotes the use of consistent accounting principles—relevance, completeness, consistency, transparency, and accuracy—and is designed to work in conjunction with the GHG Protocol’s Corporate and Product Standards. This standard is essential for organizations aiming to manage their full carbon footprint and make sustainable business decisions across the value chain."
+            ]
+        },
+        {
+            "filename": "Estimating_and_reporting_Avoided_Emissions",
+            "source": "https://ghgprotocol.org/sites/default/files/2023-03/18_WP_Comparative-Emissions_final.pdf",
+            "summary": [
+                "The document Estimating and Reporting the Comparative Emissions Impacts of Products provides a framework for companies to quantify and disclose the greenhouse gas (GHG) impacts of their products compared to baseline alternatives, particularly focusing on avoided emissions. It distinguishes between two accounting methods: the attributional approach, which compares product life-cycle GHG inventories, and the consequential approach, which estimates system-wide emission changes due to a product’s adoption. The paper stresses that comparative impact assessments are separate from Scope 1, 2, and 3 corporate GHG inventories and should not be used to adjust them. It outlines best practices and methodological guidance for defining baselines, system boundaries, data quality, uncertainty, and attribution across the value chain. The paper also reviews how companies use comparative impact claims for branding, product differentiation, policy influence, and climate strategies, while cautioning against cherry-picking only positive outcomes. This framework is especially relevant when queries involve product-level GHG comparisons, avoided emissions, functional unit-based impact estimates, or consequential versus attributional accounting in product assessment."
+            ]
+        },
+        {
+            "filename": "Fugitive_Emissions_Inventory_Guidance",
+            "source": "https://www.epa.gov/sites/default/files/2020-12/documents/fugitiveemissions.pdf",
+            "summary": [
+                "The Fugitive Emissions Inventory Guidance by the U.S. EPA provides standardized methods for calculating Scope 1 fugitive greenhouse gas (GHG) emissions from equipment and operations that use refrigerants, fire suppressants, and industrial gases. The document focuses on emissions from refrigeration, air conditioning, fire suppression systems, and direct use of industrial gases—particularly those containing high global warming potential substances like HFCs, PFCs, and SF₆. It outlines four main calculation methods: a basic Screening Method for initial estimates, a Method for Purchased Gases, and two more accurate techniques—the Material Balance Method and a Simplified Material Balance Method. Each method varies in complexity, data needs, and accuracy. It provides default emission factors, activity data requirements, and guidance on selecting the appropriate method based on equipment type and data availability. The guidance also covers completeness, uncertainty, documentation, and quality control for GHG inventories, and is aligned with the GHG Protocol but adapted for EPA’s tools and reporting standards. This document is relevant when queries involve emissions from HVAC systems, refrigerant leaks, fire suppression gas releases, or industrial gas usage within an organization’s operational boundary."
+            ]
+        },
+        {
+            "filename": "GHG_Protocol_Corporate_Std",
+            "source": "https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf",
+            "summary": [
+                "The GHG Protocol Corporate Accounting and Reporting Standard is the foundational global framework for businesses and organizations to measure, manage, and report their greenhouse gas (GHG) emissions. It outlines standardized methods for preparing a GHG inventory across three emission scopes: Scope 1 (direct emissions), Scope 2 (indirect emissions from purchased electricity), and Scope 3 (other indirect emissions). The document guides organizations in setting organizational boundaries (via equity share or control approaches), establishing operational boundaries, tracking emissions over time, and ensuring accuracy, completeness, consistency, transparency, and relevance in reporting. It is designed to align with both voluntary and mandatory programs, supports GHG target-setting and emissions trading participation, and provides a basis for verification and external reporting. This standard should be referenced whenever queries relate to corporate GHG accounting, emissions categorization by scope, boundary definitions, or the development of verifiable emissions inventories."
+            ]
+        },
+        {
+            "filename": "Mobile_Combustion_Inventory_Guidance",
+            "source": "https://www.epa.gov/sites/default/files/2020-12/documents/mobileemissions.pdf",
+            "summary": [
+                "The Mobile Combustion Inventory Guidance by the U.S. EPA provides detailed instructions for calculating Scope 1 direct greenhouse gas (GHG) emissions from the combustion of fuels in mobile sources such as cars, trucks, buses, aircraft, ships, locomotives, and construction equipment. It outlines how to quantify emissions of CO₂, CH₄, and N₂O based on fuel type, vehicle type, activity data (fuel use or distance traveled), and emission factors. The guidance includes specific calculation methods for both CO₂ (based on fuel carbon content or heat content) and for CH₄/N₂O (based on distance or fuel consumption depending on vehicle type). It also distinguishes between fossil and biogenic emissions, explains how to handle blended fuels (e.g., E10, B20, SAF), and emphasizes separate reporting of biomass CO₂. The document excludes emissions from electric vehicle use and refrigerant leakage, directing users to related guidance for those sources. It also covers data quality practices, uncertainty assessment, documentation requirements, and QA/QC procedures, aligning with the GHG Protocol standards. This document is applicable when queries relate to fuel-based emissions from mobile equipment, biofuel usage, fleet GHG reporting, or differentiating Scope 1 vs Scope 3 emissions from transportation."
+            ]
+        },
+        {
+            "filename": "Purchased_Electricity_Inventory_Guidance",
+            "source":"https://www.epa.gov/sites/default/files/2020-12/documents/electricityemissions.pdf",
+            "summary": [
+                "The Purchased Electricity Inventory Guidance by the U.S. EPA outlines how organizations should calculate and report Scope 2 greenhouse gas (GHG) emissions resulting from the use of purchased electricity, steam, heat, and cooling. It distinguishes between two accounting methods: the location-based method, which uses average regional grid emission factors, and the market-based method, which reflects contractual electricity purchases (e.g., renewable energy certificates or supplier-specific contracts). The guidance covers data sources, emission factor hierarchies, allocation for combined heat and power (CHP) systems, and biomass treatment. It emphasizes accurate activity data (from utility bills, charging stations, etc.), the use of up-to-date emission factors, and maintaining transparency via quality documentation and QA/QC procedures. This document should be referenced when queries involve indirect emissions from energy purchases, renewable energy accounting, steam or district energy reporting, or distinguishing Scope 2 calculation approaches in GHG inventories."
+            ]
+        },
+        {
+            "filename": "Scope2_Guidance",
+            "source":"https://ghgprotocol.org/sites/default/files/2023-03/Scope%202%20Guidance.pdf",
+            "summary": [
+                "The GHG Protocol Scope 2 Guidance is an amendment to the GHG Protocol Corporate Standard that provides detailed rules and best practices for accounting and reporting Scope 2 greenhouse gas (GHG) emissions—those indirect emissions from the purchase of electricity, steam, heat, or cooling. It introduces two distinct methods: the location-based method, which uses grid-average emission factors, and the market-based method, which uses emission factors from contractual instruments like Renewable Energy Certificates (RECs), Guarantees of Origin (GOs), and power purchase agreements. The guidance requires dual reporting using both methods and defines Scope 2 Quality Criteria for market-based instruments to ensure transparency, consistency, and accuracy. It addresses how companies should establish organizational and operational boundaries, calculate emissions, avoid double counting, and disclose additional details about energy purchases. It also outlines how Scope 2 reporting supports GHG reduction targets, stakeholder engagement, and energy procurement strategies. This document is essential when queries relate to renewable electricity claims, supplier-specific emission factors, energy attribute certificates, dual reporting of Scope 2 emissions, or accounting for emissions from purchased energy."
+            ]
+        },
+        {
+            "filename": "Scope3_Guidance",
+            "source": "https://ghgprotocol.org/sites/default/files/2023-03/Scope3_Calculation_Guidance_0%5B1%5D.pdf",
+            "summary": [
+                "The Technical Guidance for Calculating Scope 3 Emissions is a detailed companion to the GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, providing companies with practical, category-specific methodologies for quantifying indirect greenhouse gas (GHG) emissions across their entire value chain. It breaks down each of the 15 Scope 3 categories—such as purchased goods and services, business travel, employee commuting, use of sold products, and investments—and offers step-by-step instructions for calculating emissions using activity data, emission factors, and multiple calculation methods (supplier-specific, hybrid, average-data, and spend-based). The document emphasizes data quality, specificity, uncertainty handling, and prioritization of high-impact activities, and guides users on primary vs. secondary data selection, use of proxies, and combining EEIO and process-based methods. It is essential for any organization aiming to build a full Scope 3 inventory, engage suppliers, set GHG reduction targets, or respond to climate-related risks and stakeholder expectations. This guidance should be referenced when queries involve Scope 3 emissions breakdowns, category-specific methodologies, value chain emissions prioritization, or supplier-based data collection strategies."
+            ]
+        }, 
+        {
+            "filename": "Simplified_Guide_GHG_Management_Organizations",
+            "source": "https://www.epa.gov/sites/default/files/2015-07/imp_checklist_0.docx",
+            "summary": [
+                "The Simplified Guide to Greenhouse Gas Management for Organizations by the U.S. EPA is a practical, step-by-step manual tailored for low emitters—such as office-based businesses, small suppliers, and public institutions—to help them create, manage, and reduce their greenhouse gas (GHG) inventories. The guide walks users through four key stages: (1) getting started by defining organizational and operational boundaries using the GHG Protocol principles; (2) calculating Scope 1, 2, and 3 emissions using the Simplified GHG Emissions Calculator, which covers sources like stationary combustion, mobile sources, refrigerants, electricity, employee commuting, and waste; (3) developing a GHG Inventory Management Plan (IMP) to ensure consistency, data quality, and transparent documentation; and (4) setting and tracking emissions reduction targets, including options for absolute, intensity-based, or carbon-neutral goals. The guide is designed for U.S.-based operations and aligns with the GHG Protocol, supporting dual Scope 2 reporting (location- and market-based), REC usage, and offset integration. It is particularly relevant for queries related to basic GHG inventory creation, emissions tracking, low-emitter tools, target-setting, or use of the EPA’s simplified calculator for Scope 1, 2, and 3 emissions."
+            ]
+        }, 
+        {
+            "filename": "Stationary_Combustion_Inventory_Guidance",
+            "source": "https://www.epa.gov/sites/default/files/2020-12/documents/stationaryemissions.pdf",
+            "summary": [
+                "The Stationary Combustion Inventory Guidance by the U.S. EPA provides a detailed methodology for calculating Scope 1 direct greenhouse gas (GHG) emissions from the combustion of fuels in stationary sources such as boilers, furnaces, ovens, and flares. It covers emissions of CO₂, CH₄, and N₂O, including from fossil fuels, biomass, and waste-derived fuels, and provides two main calculation methods: the Continuous Emissions Monitoring System (CEMS) and the Fuel Analysis Method, with the latter offering three tiers of calculation based on data availability (mass/volume, heat content, or carbon content). The document explains how to use appropriate emission factors, manage fuel inventory changes, handle non-combustion fugitive emissions, and ensure data completeness, documentation, uncertainty assessment, and QA/QC practices. It also clarifies treatment of biogenic CO₂, guidance on hybrid fuels, and how to adjust for waste combustion. This guidance should be used when queries involve fuel combustion emissions, stationary equipment, on-site energy generation, fuel-specific emission calculations, or Scope 1 emissions from stationary sources."
+            ]
+        }
+    ]
+}
